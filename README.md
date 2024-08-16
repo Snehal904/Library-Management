@@ -1,1 +1,1 @@
-
+The Library Management System project illustrates the design and implementation of a relational database for managing library operations. By using MySQL Workbench, the project covers database schema creation, data insertion, and querying to extract valuable insights. This project demonstrates skills in database design, data management, and SQL querying, offering a comprehensive solution for library management.
